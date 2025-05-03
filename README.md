@@ -18,7 +18,6 @@ This project implements two Go components: a centralized key-value server (`p0pa
 ## 🧰 Tools Used
 
 - [Go](https://golang.org/) for implementation and testing
-- [Git](https://git-scm.com/) for version control
 - Standard Go testing framework (`go test`)
 
 ---
